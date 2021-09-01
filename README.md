@@ -11,5 +11,4 @@ Nutritional Facts module for [PrestaShop](https://github.com/prestashop/prestash
 
 ## Copyright
 
-(c) 2020, Pittaca S.r.l.s.
-
+(c) 2020-2021, [Pittica S.r.l.s.](https://pittica.com).
