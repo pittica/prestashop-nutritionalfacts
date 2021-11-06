@@ -1,10 +1,12 @@
 <?php
 
 /**
- * 2020 Pittica S.r.l.s.
+ * Nutritional Facts
+ * 
+ * (c) 2021 Pittica S.r.l.
  *
  * @author    Lucio Benini <info@pittica.com>
- * @copyright 2020 Pittica S.r.l.s.
+ * @copyright 2021 Pittica S.r.l.
  * @license   http://opensource.org/licenses/LGPL-3.0  The GNU Lesser General Public License, version 3.0 ( LGPL-3.0 )
  */
 
@@ -22,7 +24,7 @@ class PitticaNutritionalFacts extends Module
     {
         $this->name          = 'pitticanutritionalfacts';
         $this->tab           = 'front_office_features';
-        $this->version       = '1.0.0';
+        $this->version       = '1.0.1';
         $this->author        = 'Pittica';
         $this->need_instance = 1;
 
